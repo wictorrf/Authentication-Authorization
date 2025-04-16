@@ -16,6 +16,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
 builder.Services.AddScoped<RegistrarUsuarioService>();
 builder.Services.AddScoped<LoginUsuarioService>();
+builder.Services.AddScoped<ListarUsuariosService>();
 
 
 builder.Services.AddControllers(); // Habilita suporte a controllers

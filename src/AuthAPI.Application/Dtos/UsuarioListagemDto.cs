@@ -5,12 +5,12 @@ using System.Threading.Tasks;
 
 namespace AuthAPI.Application.Dtos
 {
-    public class RegistrarUsuarioDto
+    public class UsuarioListagemDto
     {
+        public int Id { get; set; }
         public required string Nome { get; set; }
         public required string Email { get; set; }
-        public required string Senha { get; set; }
-        public string Role { get; set; } = "Cliente"; // valor padrão
-
+        public required string Role { get; set; }
+        public DateTime DataCriacao { get; set; }
     }
 }

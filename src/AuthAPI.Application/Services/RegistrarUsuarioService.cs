@@ -35,7 +35,8 @@ namespace AuthAPI.Application.Services
             {
                 Nome = dto.Nome,
                 Email = dto.Email,
-                SenhaHash = senhaHash
+                SenhaHash = senhaHash,
+                Role = dto.Role
             };
 
             await _usuarioRepository.CadastrarAsync(usuario);

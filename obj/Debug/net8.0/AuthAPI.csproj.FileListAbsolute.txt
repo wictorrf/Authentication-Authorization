@@ -1,0 +1,8 @@
+C:\Users\wicto\Desktop\AuthAPI\obj\Debug\net8.0\AuthAPI.csproj.AssemblyReference.cache
+C:\Users\wicto\Desktop\AuthAPI\obj\Debug\net8.0\AuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wicto\Desktop\AuthAPI\obj\Debug\net8.0\AuthAPI.AssemblyInfoInputs.cache
+C:\Users\wicto\Desktop\AuthAPI\obj\Debug\net8.0\AuthAPI.AssemblyInfo.cs
+C:\Users\wicto\Desktop\AuthAPI\obj\Debug\net8.0\AuthAPI.csproj.CoreCompileInputs.cache
+C:\Users\wicto\Desktop\AuthAPI\obj\Debug\net8.0\AuthAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wicto\Desktop\AuthAPI\obj\Debug\net8.0\AuthAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wicto\Desktop\AuthAPI\obj\Debug\net8.0\AuthAPI.sourcelink.json

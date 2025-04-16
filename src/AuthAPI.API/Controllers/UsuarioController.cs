@@ -11,10 +11,15 @@ namespace AuthAPI.API.Controllers
     public class UsuarioController : ControllerBase
     {
         private readonly AtualizarUsuarioService _atualizarService;
+        private readonly ListarUsuariosService _listarService;
 
-        public UsuarioController(AtualizarUsuarioService atualizarService)
+        public UsuarioController(
+            AtualizarUsuarioService atualizarService,
+            ListarUsuariosService listarService
+        )
         {
             _atualizarService = atualizarService;
+            _listarService = listarService;
         }
 
         [HttpGet("perfil")]
@@ -42,6 +47,14 @@ namespace AuthAPI.API.Controllers
                 return Ok(new { mensagem = resultado });
 
             return BadRequest(new { erro = resultado });
+        }
+
+        [HttpGet("todos")]
+        [Authorize(Roles = "Admin")]
+        public async Task<IActionResult> ListarTodos()
+        {
+            var lista = await _listarService.ExecutarAsync();
+            return Ok(lista);
         }
 
     }
