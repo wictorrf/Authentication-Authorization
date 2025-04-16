@@ -9,3 +9,4 @@ C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Domain\obj\Debug\net8.0\AuthAPI.Domai
 C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Domain\obj\Debug\net8.0\refint\AuthAPI.Domain.dll
 C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Domain\obj\Debug\net8.0\AuthAPI.Domain.pdb
 C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Domain\obj\Debug\net8.0\ref\AuthAPI.Domain.dll
+C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Domain\obj\Debug\net8.0\AuthAPI.Domain.sourcelink.json

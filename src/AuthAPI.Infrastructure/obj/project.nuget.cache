@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "NzEWDEq0YzlI0MP/c23HeVt6xXQhsM2HtmF3iAE51CdluUkCUSpkfcmO82F+k7n7y2gXZqlsLDfgdsPCuocVjA==",
+  "dgSpecHash": "axwcPNj20QnCj3mWVXQt6K/AaAfZS3rzmvSasi/+ESKAgPKUzm4mudNOg3cItQSpGiNWofru50UkmoS7DSuWIg==",
   "success": true,
   "projectFilePath": "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Infrastructure\\AuthAPI.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wicto\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\wicto\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.0\\microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\wicto\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
     "C:\\Users\\wicto\\.nuget\\packages\\microsoft.bcl.memory\\9.0.0\\microsoft.bcl.memory.9.0.0.nupkg.sha512",
     "C:\\Users\\wicto\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.4\\microsoft.entityframeworkcore.9.0.4.nupkg.sha512",
     "C:\\Users\\wicto\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.4\\microsoft.entityframeworkcore.abstractions.9.0.4.nupkg.sha512",
@@ -26,7 +28,8 @@
     "C:\\Users\\wicto\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512",
     "C:\\Users\\wicto\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\9.0.4\\npgsql.entityframeworkcore.postgresql.9.0.4.nupkg.sha512",
     "C:\\Users\\wicto\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.4\\system.diagnostics.diagnosticsource.9.0.4.nupkg.sha512",
-    "C:\\Users\\wicto\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.8.0\\system.identitymodel.tokens.jwt.8.8.0.nupkg.sha512"
+    "C:\\Users\\wicto\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.8.0\\system.identitymodel.tokens.jwt.8.8.0.nupkg.sha512",
+    "C:\\Users\\wicto\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

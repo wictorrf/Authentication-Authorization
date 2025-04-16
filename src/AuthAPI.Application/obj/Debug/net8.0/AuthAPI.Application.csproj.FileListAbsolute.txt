@@ -13,3 +13,4 @@ C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Application\obj\Debug\net8.0\AuthAPI.
 C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Application\obj\Debug\net8.0\refint\AuthAPI.Application.dll
 C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Application\obj\Debug\net8.0\AuthAPI.Application.pdb
 C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Application\obj\Debug\net8.0\ref\AuthAPI.Application.dll
+C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Application\obj\Debug\net8.0\AuthAPI.Application.sourcelink.json

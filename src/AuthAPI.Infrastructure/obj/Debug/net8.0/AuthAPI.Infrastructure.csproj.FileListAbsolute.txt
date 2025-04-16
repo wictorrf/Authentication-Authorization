@@ -15,3 +15,4 @@ C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Infrastructure\obj\Debug\net8.0\AuthA
 C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Infrastructure\obj\Debug\net8.0\refint\AuthAPI.Infrastructure.dll
 C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Infrastructure\obj\Debug\net8.0\AuthAPI.Infrastructure.pdb
 C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Infrastructure\obj\Debug\net8.0\ref\AuthAPI.Infrastructure.dll
+C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Infrastructure\obj\Debug\net8.0\AuthAPI.Infrastructure.sourcelink.json

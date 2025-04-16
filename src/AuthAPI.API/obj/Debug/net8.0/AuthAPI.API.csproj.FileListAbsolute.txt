@@ -149,3 +149,4 @@ C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.API\bin\Debug\net8.0\Microsoft.Identi
 C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.API\obj\Debug\net8.0\AuthAPI.API.sourcelink.json

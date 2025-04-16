@@ -41,6 +41,8 @@ builder.Services.AddAuthentication(opt =>
 });
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddHttpContextAccessor(); // necessário para acessar o usuário logado
+builder.Services.AddScoped<AtualizarUsuarioService>();
 
 // ✅ Construção da aplicação
 var app = builder.Build();
