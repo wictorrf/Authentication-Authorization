@@ -1,0 +1,11 @@
+C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Domain\bin\Debug\net8.0\AuthAPI.Domain.deps.json
+C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Domain\bin\Debug\net8.0\AuthAPI.Domain.dll
+C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Domain\bin\Debug\net8.0\AuthAPI.Domain.pdb
+C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Domain\obj\Debug\net8.0\AuthAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Domain\obj\Debug\net8.0\AuthAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Domain\obj\Debug\net8.0\AuthAPI.Domain.AssemblyInfo.cs
+C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Domain\obj\Debug\net8.0\AuthAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Domain\obj\Debug\net8.0\AuthAPI.Domain.dll
+C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Domain\obj\Debug\net8.0\refint\AuthAPI.Domain.dll
+C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Domain\obj\Debug\net8.0\AuthAPI.Domain.pdb
+C:\Users\wicto\Desktop\AuthAPI\src\AuthAPI.Domain\obj\Debug\net8.0\ref\AuthAPI.Domain.dll
