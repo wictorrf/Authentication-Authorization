@@ -14,5 +14,7 @@ namespace AuthAPI.Domain.Repositories
         Task CadastrarAsync(Usuario usuario);
         Task AtualizarAsync(Usuario usuario);
         Task DeletarAsync(int id);
+        Task<(List<Usuario> usuarios, int total)> ListarComFiltroAsync(string nome, string email, int skip, int take);
+
     }
 }

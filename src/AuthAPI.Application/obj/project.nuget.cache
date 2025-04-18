@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gfXl9nt1AoHRvmyVSROSOiDAljN+wwFDIZbpUEXnYewIZZzVGKCdpZmByycTSfY9mrpyxzZKoxZeLMTlLQ5qfA==",
+  "dgSpecHash": "pAyBwnvGjhUgq/hgsBUkDZLW8BwND7LO/zBUDB8//caPeTn3mpEP8op8YWcbT25H67gEedxL/B09CE85tAJhMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Application\\AuthAPI.Application.csproj",
+  "projectFilePath": "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Application\\AuthAPI.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wicto\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\wicto\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.0\\microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",

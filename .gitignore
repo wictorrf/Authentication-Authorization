@@ -1,0 +1,23 @@
+# bin and obj folders
+bin/
+obj/
+*.user
+*.suo
+
+# Visual Studio
+.vscode/
+*.vs/
+
+# Build output
+*.dll
+*.exe
+*.pdb
+
+# Others
+*.log
+*.cache
+*.tmp
+
+# Ignore NuGet stuff
+project.lock.json
+project.nuget.cache

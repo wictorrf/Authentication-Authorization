@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DqTLMnyrKOX8jAjWNLKdOt3giVAXBr0Khvx/CErwqHK1f3hD9KDGcBhb14xKbIpHkM+52txEeULKmYSfZeuaYw==",
+  "dgSpecHash": "pBOT9WPp5tYbiHZ+GgaUjpbGsaGm5WhArTyvKbqdafyrKPqxAmuYqjvk/vwJWNtRIFSIRJUY0YU3E85uRNwP9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Domain\\AuthAPI.Domain.csproj",
+  "projectFilePath": "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Domain\\AuthAPI.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

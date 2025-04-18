@@ -54,5 +54,21 @@ namespace AuthAPI.Infrastructure.Repositories
                 await _context.SaveChangesAsync();
             }
         }
+
+        public async Task<(List<Usuario> usuarios, int total)> ListarComFiltroAsync(string nome, string email, int skip, int take)
+        {
+            var query = _context.Usuarios.AsQueryable();
+
+            if (!string.IsNullOrWhiteSpace(nome))
+                query = query.Where(u => u.Nome.ToLower().Contains(nome.ToLower()));
+
+            if (!string.IsNullOrWhiteSpace(email))
+                query = query.Where(u => u.Email.ToLower().Contains(email.ToLower()));
+
+            var total = await query.CountAsync();
+            var usuarios = await query.Skip(skip).Take(take).ToListAsync();
+
+            return (usuarios, total);
+        }
     }
 }
