@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.API\\AuthAPI.API.csproj": {}
+    "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.API\\AuthAPI.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.API\\AuthAPI.API.csproj": {
+    "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.API\\AuthAPI.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.API\\AuthAPI.API.csproj",
+        "projectUniqueName": "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.API\\AuthAPI.API.csproj",
         "projectName": "AuthAPI.API",
-        "projectPath": "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.API\\AuthAPI.API.csproj",
+        "projectPath": "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.API\\AuthAPI.API.csproj",
         "packagesPath": "C:\\Users\\wicto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.API\\obj\\",
+        "outputPath": "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wicto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,14 +29,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Application\\AuthAPI.Application.csproj": {
-                "projectPath": "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Application\\AuthAPI.Application.csproj"
+              "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Application\\AuthAPI.Application.csproj": {
+                "projectPath": "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Application\\AuthAPI.Application.csproj"
               },
-              "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Domain\\AuthAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Domain\\AuthAPI.Domain.csproj"
+              "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Domain\\AuthAPI.Domain.csproj": {
+                "projectPath": "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Domain\\AuthAPI.Domain.csproj"
               },
-              "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Infrastructure\\AuthAPI.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Infrastructure\\AuthAPI.Infrastructure.csproj"
+              "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Infrastructure\\AuthAPI.Infrastructure.csproj": {
+                "projectPath": "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Infrastructure\\AuthAPI.Infrastructure.csproj"
               }
             }
           }
@@ -98,14 +98,14 @@
         }
       }
     },
-    "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Application\\AuthAPI.Application.csproj": {
+    "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Application\\AuthAPI.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Application\\AuthAPI.Application.csproj",
+        "projectUniqueName": "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Application\\AuthAPI.Application.csproj",
         "projectName": "AuthAPI.Application",
-        "projectPath": "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Application\\AuthAPI.Application.csproj",
+        "projectPath": "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Application\\AuthAPI.Application.csproj",
         "packagesPath": "C:\\Users\\wicto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Application\\obj\\",
+        "outputPath": "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wicto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -123,8 +123,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Domain\\AuthAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Domain\\AuthAPI.Domain.csproj"
+              "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Domain\\AuthAPI.Domain.csproj": {
+                "projectPath": "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Domain\\AuthAPI.Domain.csproj"
               }
             }
           }
@@ -181,14 +181,14 @@
         }
       }
     },
-    "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Domain\\AuthAPI.Domain.csproj": {
+    "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Domain\\AuthAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Domain\\AuthAPI.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Domain\\AuthAPI.Domain.csproj",
         "projectName": "AuthAPI.Domain",
-        "projectPath": "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Domain\\AuthAPI.Domain.csproj",
+        "projectPath": "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Domain\\AuthAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\wicto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Domain\\obj\\",
+        "outputPath": "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wicto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -242,14 +242,14 @@
         }
       }
     },
-    "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Infrastructure\\AuthAPI.Infrastructure.csproj": {
+    "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Infrastructure\\AuthAPI.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Infrastructure\\AuthAPI.Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Infrastructure\\AuthAPI.Infrastructure.csproj",
         "projectName": "AuthAPI.Infrastructure",
-        "projectPath": "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Infrastructure\\AuthAPI.Infrastructure.csproj",
+        "projectPath": "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Infrastructure\\AuthAPI.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\wicto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Infrastructure\\obj\\",
+        "outputPath": "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wicto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -267,11 +267,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Application\\AuthAPI.Application.csproj": {
-                "projectPath": "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Application\\AuthAPI.Application.csproj"
+              "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Application\\AuthAPI.Application.csproj": {
+                "projectPath": "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Application\\AuthAPI.Application.csproj"
               },
-              "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Domain\\AuthAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Domain\\AuthAPI.Domain.csproj"
+              "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Domain\\AuthAPI.Domain.csproj": {
+                "projectPath": "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.Domain\\AuthAPI.Domain.csproj"
               }
             }
           }

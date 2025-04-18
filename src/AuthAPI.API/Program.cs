@@ -17,6 +17,10 @@ builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
 builder.Services.AddScoped<RegistrarUsuarioService>();
 builder.Services.AddScoped<LoginUsuarioService>();
 builder.Services.AddScoped<ListarUsuariosService>();
+builder.Services.AddScoped<EditarUsuarioService>();
+builder.Services.AddScoped<DeletarUsuarioService>();
+builder.Services.AddScoped<CriarUsuarioService>();
+builder.Services.AddScoped<ListarUsuariosPaginadoService>();
 
 
 builder.Services.AddControllers(); // Habilita suporte a controllers

@@ -12,15 +12,28 @@ namespace AuthAPI.API.Controllers
     {
         private readonly AtualizarUsuarioService _atualizarService;
         private readonly ListarUsuariosService _listarService;
+        private readonly EditarUsuarioService _editarService;
+        private readonly CriarUsuarioService _criarService;
+        private readonly DeletarUsuarioService _deletarService;
+        private readonly ListarUsuariosPaginadoService _listarPaginadoService;
 
         public UsuarioController(
             AtualizarUsuarioService atualizarService,
-            ListarUsuariosService listarService
+            ListarUsuariosService listarService,
+            CriarUsuarioService criarService,
+            EditarUsuarioService editarService,
+            DeletarUsuarioService deletarService,
+            ListarUsuariosPaginadoService listarPaginadoService
         )
         {
             _atualizarService = atualizarService;
             _listarService = listarService;
+            _criarService = criarService;
+            _editarService = editarService;
+            _deletarService = deletarService;
+            _listarPaginadoService = listarPaginadoService;
         }
+
 
         [HttpGet("perfil")]
         [Authorize]
@@ -55,6 +68,38 @@ namespace AuthAPI.API.Controllers
         {
             var lista = await _listarService.ExecutarAsync();
             return Ok(lista);
+        }
+
+        [HttpPost]
+        [Authorize(Roles = "Admin")]
+        public async Task<IActionResult> Criar([FromBody] UsuarioCriacaoDto dto)
+        {
+            var resultado = await _criarService.ExecutarAsync(dto);
+            return Ok(new { mensagem = resultado });
+        }
+
+        [HttpPut("{id}")]
+        [Authorize(Roles = "Admin")]
+        public async Task<IActionResult> Editar(int id, [FromBody] UsuarioEdicaoDto dto)
+        {
+            var resultado = await _editarService.ExecutarAsync(id, dto);
+            return Ok(new { mensagem = resultado });
+        }
+
+        [HttpDelete("{id}")]
+        [Authorize(Roles = "Admin")]
+        public async Task<IActionResult> Deletar(int id)
+        {
+            var resultado = await _deletarService.ExecutarAsync(id);
+            return Ok(new { mensagem = resultado });
+        }
+
+        [HttpGet("paginado")]
+        [Authorize(Roles = "Admin")]
+        public async Task<IActionResult> ListarComPaginacao([FromQuery] UsuarioFiltroDto filtro)
+        {
+            var resultado = await _listarPaginadoService.ExecutarAsync(filtro);
+            return Ok(resultado);
         }
 
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cGtEl5qySkSReqodCbcsjng3qw+FGAkuWwgbwa3ik42H8rvOgrXw12LPjEP9g3WzKI6G/vf8LsW8MGs+GTV5KQ==",
+  "dgSpecHash": "rWzST76867Khd61IDmUO0XzOAh13Q1S9CW5y+2e6c2Wu9brcFAEFidvUldq1NLwGo5K4xz8q44GPKISSYhtz/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.API\\AuthAPI.API.csproj",
+  "projectFilePath": "c:\\Users\\wicto\\Desktop\\AuthAPI\\src\\AuthAPI.API\\AuthAPI.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wicto\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\wicto\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
